@@ -1,9 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T18:18:22.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="uQ7XEc3hlJMWiXhXBqkq" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T18:49:57.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9kO4Y5g8La2zKzgPIIoE" version="24.0.2" type="github">
   <diagram name="Page-1" id="NdyBMd4k0NPhV9qGYhMg">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="1110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-2" value="Worker" style="rounded=0;fillColor=none;fontStyle=1;direction=west;horizontal=0;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="1110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-4" value="Wrokaround" style="rounded=0;fillColor=none;fontStyle=1;direction=west;horizontal=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="1110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-6" value="Clientes" style="rounded=0;fillColor=none;fontStyle=1;direction=west;horizontal=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-7" value="Fluxograma de Processos WorkAround" style="rounded=0;fillColor=none;fontStyle=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="1110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-9" target="Lx4wT6UVww7fgD0Hadd6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-9" value="Worker está procurando serviços" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="100" y="391.25" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-11" target="Lx4wT6UVww7fgD0Hadd6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="100" y="256.25" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.176;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" target="Lx4wT6UVww7fgD0Hadd6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290.1" y="265" as="sourcePoint" />
+            <mxPoint x="315.30000000000007" y="180.30000000000007" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="223" />
+              <mxPoint x="315" y="223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-14" target="Lx4wT6UVww7fgD0Hadd6-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-14" value="Realizar login no App" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="200" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-16" target="Lx4wT6UVww7fgD0Hadd6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-16" value="Cliente deseja solicitar um worker" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454.9" y="182.5" as="sourcePoint" />
+            <mxPoint x="454.9" y="265" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="454.9" y="180.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-18" target="Lx4wT6UVww7fgD0Hadd6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-18" value="&lt;div&gt;&amp;nbsp; Olhar suas solicitações&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;de serviços&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-21" target="Lx4wT6UVww7fgD0Hadd6-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="225" />
+              <mxPoint x="503" y="225" />
+              <mxPoint x="503" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-21" value="Receber as informações e mostrar os workers disponíveis para o usuário" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="360" y="265" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-24" value="Responder ao questionário de solicitação de serviço" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="280" y="125" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-25" value="Iniciar a utilização do App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="122.5" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="801.25" y="262.5" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-32" target="Lx4wT6UVww7fgD0Hadd6-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-32" value="Escolher o worker que ele&amp;nbsp;&lt;div&gt;prefere&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="520" y="125" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-35" target="Lx4wT6UVww7fgD0Hadd6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-35" value="Enviar notificação ao worker de que existem clientes que solicitam seus serviços" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="580" y="265" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="Lx4wT6UVww7fgD0Hadd6-38" target="Lx4wT6UVww7fgD0Hadd6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-42" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0;fontSize=13;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="Lx4wT6UVww7fgD0Hadd6-41">
+          <mxGeometry x="0.0525" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-38" value="Deseja&lt;div&gt;&amp;nbsp;realizar o serviço?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="790" y="386.25" width="87.5" height="87.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
