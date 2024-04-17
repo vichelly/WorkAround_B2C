@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T12:22:56.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VrrWMiAMFoIOV_h-j39_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T12:31:00.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sw5Sm_8vgcEVNFbzYq1m" version="24.2.5" type="github">
   <diagram name="Page-1" id="NdyBMd4k0NPhV9qGYhMg">
     <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lx4wT6UVww7fgD0Hadd6-14" value="Realizar login no App" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-14" value="Realizar o login" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="200" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lx4wT6UVww7fgD0Hadd6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" parent="1" source="Lx4wT6UVww7fgD0Hadd6-16" target="Lx4wT6UVww7fgD0Hadd6-14" edge="1">
