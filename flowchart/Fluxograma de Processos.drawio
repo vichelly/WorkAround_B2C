@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T23:41:33.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2oGnQ5ljiort99gkAvo0" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T12:22:56.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VrrWMiAMFoIOV_h-j39_" version="24.2.5" type="github">
   <diagram name="Page-1" id="NdyBMd4k0NPhV9qGYhMg">
     <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -91,11 +91,11 @@
         <mxCell id="Lx4wT6UVww7fgD0Hadd6-21" value="Receber as informações e mostrar os workers e datas disponíveis para o usuário" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="360" y="265" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lx4wT6UVww7fgD0Hadd6-24" value="Responder ao questionário de solicitação de serviço" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-24" value="Solicitar um serviço através&lt;div&gt;&amp;nbsp;do app&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="280" y="125" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lx4wT6UVww7fgD0Hadd6-26" value="Solicitação finalizada para ambos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="790" y="251.25" width="87.5" height="87.5" as="geometry" />
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-26" value="Solicitação finalizada para o worker, pedido é reaberto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="784.38" y="245" width="98.75" height="98.75" as="geometry" />
         </mxCell>
         <mxCell id="Lx4wT6UVww7fgD0Hadd6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" parent="1" source="Lx4wT6UVww7fgD0Hadd6-32" target="Lx4wT6UVww7fgD0Hadd6-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +133,7 @@
             <mxPoint x="995" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lx4wT6UVww7fgD0Hadd6-43" value="Realizar o processo de orçamento e agendamendo" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="Lx4wT6UVww7fgD0Hadd6-43" value="Realização do processo de orçamento e agendamendo" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="900" y="265" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lx4wT6UVww7fgD0Hadd6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Lx4wT6UVww7fgD0Hadd6-48" target="Lx4wT6UVww7fgD0Hadd6-26" edge="1">
